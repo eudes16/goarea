@@ -16,7 +16,7 @@ func Rect(base, altura float64) float64 {
 	return base * altura
 }
 
-// Não é uma função visível
+// Não é visível
 func _TrianguloEq(base, altura float64) float64 {
 	return (base * altura) / 2
 }
